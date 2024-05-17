@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE QtCreatorProject>
+<!-- Written by QtCreator 5.0.2, 2024-05-17T20:11:00. -->
+<qtcreator>
+ <data>
+  <variable>EnvironmentId</variable>
+  <value type="QByteArray">{253a9fa5-b978-4f77-95e9-77dca2bdf793}</value>
+ </data>
+ <data>
+  <variable>ProjectExplorer.Project.ActiveTarget</variable>
+  <value type="int">0</value>
+ </data>
+ <data>
+  <variable>ProjectExplorer.Project.EditorSettings</variable>
+  <valuemap type="QVariantMap">
+   <value type="bool" key="EditorConfiguration.AutoIndent">true</value>
+   <value type="bool" key="EditorConfiguration.AutoSpacesForTabs">false</value>
+   <value type="bool" key="EditorConfiguration.CamelCaseNavigation">true</value>
+   <valuemap type="QVariantMap" key="EditorConfiguration.CodeStyle.0">
+    <value type="QString" key="language">Cpp</value>
+    <valuemap type="QVariantMap" key="value">
+     <value type="QByteArray" key="CurrentPreferences">CppGlobal</value>
+    </valuemap>
+   </valuemap>
+   <valuemap type="QVariantMap" key="EditorConfiguration.CodeStyle.1">
+    <value type="QString" key="language">QmlJS</value>
+    <valuemap type="QVariantMap" key="value">
+     <value type="QByteArray" key="CurrentPreferences">QmlJSGlobal</value>
+    </valuemap>
+   </valuemap>
+   <value type="int" key="EditorConfiguration.CodeStyle.Count">2</value>
+   <value type="QByteArray" key="EditorConfiguration.Codec">UTF-8</value>
+   <value type="bool" key="EditorConfiguration.ConstrainTooltips">false</value>
+   <value type="int" key="EditorConfiguration.IndentSize">4</value>
+   <value type="bool" key="EditorConfiguration.KeyboardTooltips">false</value>
+   <value type="int" key="EditorConfiguration.MarginColumn">80</value>
+   <value type="bool" key="EditorConfiguration.MouseHiding">true</value>
+   <value type="bool" key="EditorConfiguration.MouseNavigation">true</value>
+   <value type="int" key="EditorConfiguration.PaddingMode">1</value>
+   <value type="bool" key="EditorConfiguration.PreferSingleLineComments">false</value>
+   <value type="bool" key="EditorConfiguration.ScrollWheelZooming">true</value>
+   <value type="bool" key="EditorConfiguration.ShowMargin">false</value>
+   <value type="int" key="EditorConfiguration.SmartBackspaceBehavior">0</value>
+   <value type="bool" key="EditorConfiguration.SmartSelectionChanging">true</value>
+   <value type="bool" key="EditorConfiguration.SpacesForTabs">true</value>
+   <value type="int" key="EditorConfiguration.TabKeyBehavior">0</value>
+   <value type="int" key="EditorConfiguration.TabSize">8</value>
+   <value type="bool" key="EditorConfiguration.UseGlobal">true</value>
+   <value type="bool" key="EditorConfiguration.UseIndenter">false</value>
+   <value type="int" key="EditorConfiguration.Utf8BomBehavior">1</value>
+   <value type="bool" key="EditorConfiguration.addFinalNewLine">true</value>
+   <value type="bool" key="EditorConfiguration.cleanIndentation">true</value>
+   <value type="bool" key="EditorConfiguration.cleanWhitespace">true</value>
+   <value type="QString" key="EditorConfiguration.ignoreFileTypes">*.md, *.MD, Makefile</value>
+   <value type="bool" key="EditorConfiguration.inEntireDocument">false</value>
+   <value type="bool" key="EditorConfiguration.skipTrailingWhitespace">true</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>ProjectExplorer.Project.Target.0</variable>
+  <valuemap type="QVariantMap">
+   <value type="QString" key="DeviceType">Desktop</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Desktop Qt 5.12.12 MSVC2015 64bit</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Desktop Qt 5.12.12 MSVC2015 64bit</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">qt.qt5.51212.win64_msvc2015_64_kit</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveBuildConfiguration">-1</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveDeployConfiguration">-1</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveRunConfiguration">-1</value>
+   <value type="int" key="ProjectExplorer.Target.BuildConfigurationCount">0</value>
+   <value type="int" key="ProjectExplorer.Target.DeployConfigurationCount">0</value>
+   <value type="int" key="ProjectExplorer.Target.RunConfigurationCount">0</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>ProjectExplorer.Project.Target.1</variable>
+  <valuemap type="QVariantMap">
+   <value type="QString" key="DeviceType">Desktop</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Desktop Qt 5.12.12 MSVC2017 32bit</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Desktop Qt 5.12.12 MSVC2017 32bit</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">qt.qt5.51212.win32_msvc2017_kit</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveBuildConfiguration">-1</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveDeployConfiguration">-1</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveRunConfiguration">-1</value>
+   <value type="int" key="ProjectExplorer.Target.BuildConfigurationCount">0</value>
+   <value type="int" key="ProjectExplorer.Target.DeployConfigurationCount">0</value>
+   <value type="int" key="ProjectExplorer.Target.RunConfigurationCount">0</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>ProjectExplorer.Project.Target.10</variable>
+  <valuemap type="QVariantMap">
+   <value type="QString" key="DeviceType">Desktop</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Replacement for &quot;Desktop Qt 5.13.1 MSVC2015 64bit&quot;</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Replacement for &quot;Desktop Qt 5.13.1 MSVC2015 64bit&quot;</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">qt.qt5.5131.win64_msvc2015_64_kit</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveBuildConfiguration">-1</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveDeployConfiguration">-1</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveRunConfiguration">-1</value>
+   <value type="int" key="ProjectExplorer.Target.BuildConfigurationCount">0</value>
+   <value type="int" key="ProjectExplorer.Target.DeployConfigurationCount">0</value>
+   <value type="int" key="ProjectExplorer.Target.RunConfigurationCount">0</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>ProjectExplorer.Project.Target.11</variable>
+  <valuemap type="QVariantMap">
+   <value type="QString" key="DeviceType">Desktop</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Replacement for &quot;Desktop Qt 5.13.1 MSVC2017 32bit&quot;</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Replacement for &quot;Desktop Qt 5.13.1 MSVC2017 32bit&quot;</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">qt.qt5.5131.win32_msvc2017_kit</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveBuildConfiguration">-1</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveDeployConfiguration">-1</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveRunConfiguration">-1</value>
+   <value type="int" key="ProjectExplorer.Target.BuildConfigurationCount">0</value>
+   <value type="int" key="ProjectExplorer.Target.DeployConfigurationCount">0</value>
+   <value type="int" key="ProjectExplorer.Target.RunConfigurationCount">0</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>ProjectExplorer.Project.Target.12</variable>
+  <valuemap type="QVariantMap">
+   <value type="QString" key="DeviceType">Desktop</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Replacement for &quot;Desktop Qt 5.13.1 MSVC2017 64bit&quot;</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Replacement for &quot;Desktop Qt 5.13.1 MSVC2017 64bit&quot;</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">qt.qt5.5131.win64_msvc2017_64_kit</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveBuildConfiguration">-1</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveDeployConfiguration">-1</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveRunConfiguration">-1</value>
+   <value type="int" key="ProjectExplorer.Target.BuildConfigurationCount">0</value>
+   <value type="int" key="ProjectExplorer.Target.DeployConfigurationCount">0</value>
+   <value type="int" key="ProjectExplorer.Target.RunConfigurationCount">0</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>ProjectExplorer.Project.Target.13</variable>
+  <valuemap type="QVariantMap">
+   <value type="QString" key="DeviceType">Desktop</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Replacement for &quot;Desktop Qt 5.13.1 MinGW 32-bit&quot;</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Replacement for &quot;Desktop Qt 5.13.1 MinGW 32-bit&quot;</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">qt.qt5.5131.win32_mingw73_kit</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveBuildConfiguration">-1</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveDeployConfiguration">-1</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveRunConfiguration">-1</value>
+   <value type="int" key="ProjectExplorer.Target.BuildConfigurationCount">0</value>
+   <value type="int" key="ProjectExplorer.Target.DeployConfigurationCount">0</value>
+   <value type="int" key="ProjectExplorer.Target.RunConfigurationCount">0</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>ProjectExplorer.Project.Target.14</variable>
+  <valuemap type="QVariantMap">
+   <value type="QString" key="DeviceType">Desktop</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Replacement for &quot;Desktop Qt 5.13.1 MinGW 64-bit&quot;</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Replacement for &quot;Desktop Qt 5.13.1 MinGW 64-bit&quot;</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">qt.qt5.5131.win64_mingw73_kit</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveBuildConfiguration">-1</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveDeployConfiguration">-1</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveRunConfiguration">-1</value>
+   <value type="int" key="ProjectExplorer.Target.BuildConfigurationCount">0</value>
+   <value type="int" key="ProjectExplorer.Target.DeployConfigurationCount">0</value>
+   <value type="int" key="ProjectExplorer.Target.RunConfigurationCount">0</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>ProjectExplorer.Project.Target.2</variable>
+  <valuemap type="QVariantMap">
+   <value type="QString" key="DeviceType">Desktop</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Desktop Qt 5.12.12 MSVC2017 64bit</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Desktop Qt 5.12.12 MSVC2017 64bit</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">qt.qt5.51212.win64_msvc2017_64_kit</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveBuildConfiguration">-1</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveDeployConfiguration">-1</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveRunConfiguration">-1</value>
+   <value type="int" key="ProjectExplorer.Target.BuildConfigurationCount">0</value>
+   <value type="int" key="ProjectExplorer.Target.DeployConfigurationCount">0</value>
+   <value type="int" key="ProjectExplorer.Target.RunConfigurationCount">0</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>ProjectExplorer.Project.Target.3</variable>
+  <valuemap type="QVariantMap">
+   <value type="QString" key="DeviceType">Desktop</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Desktop Qt 5.12.12 MinGW 32-bit</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Desktop Qt 5.12.12 MinGW 32-bit</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">qt.qt5.51212.win32_mingw73_kit</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveBuildConfiguration">-1</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveDeployConfiguration">-1</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveRunConfiguration">-1</value>
+   <value type="int" key="ProjectExplorer.Target.BuildConfigurationCount">0</value>
+   <value type="int" key="ProjectExplorer.Target.DeployConfigurationCount">0</value>
+   <value type="int" key="ProjectExplorer.Target.RunConfigurationCount">0</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>ProjectExplorer.Project.Target.4</variable>
+  <valuemap type="QVariantMap">
+   <value type="QString" key="DeviceType">Desktop</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Desktop Qt 5.12.12 MinGW 64-bit</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Desktop Qt 5.12.12 MinGW 64-bit</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">qt.qt5.51212.win64_mingw73_kit</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveBuildConfiguration">-1</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveDeployConfiguration">-1</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveRunConfiguration">-1</value>
+   <value type="int" key="ProjectExplorer.Target.BuildConfigurationCount">0</value>
+   <value type="int" key="ProjectExplorer.Target.DeployConfigurationCount">0</value>
+   <value type="int" key="ProjectExplorer.Target.RunConfigurationCount">0</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>ProjectExplorer.Project.Target.5</variable>
+  <valuemap type="QVariantMap">
+   <value type="QString" key="DeviceType">WinRt.Device.Local</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Qt 5.12.12 for UWP 32bit (MSVC 2017)</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Qt 5.12.12 for UWP 32bit (MSVC 2017)</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">qt.qt5.51212.win64_msvc2017_winrt_x86_kit</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveBuildConfiguration">-1</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveDeployConfiguration">-1</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveRunConfiguration">-1</value>
+   <value type="int" key="ProjectExplorer.Target.BuildConfigurationCount">0</value>
+   <value type="int" key="ProjectExplorer.Target.DeployConfigurationCount">0</value>
+   <value type="int" key="ProjectExplorer.Target.RunConfigurationCount">0</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>ProjectExplorer.Project.Target.6</variable>
+  <valuemap type="QVariantMap">
+   <value type="QString" key="DeviceType">WinRt.Device.Local</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Qt 5.12.12 for UWP 64bit (MSVC 2015)</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Qt 5.12.12 for UWP 64bit (MSVC 2015)</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">qt.qt5.51212.win64_msvc2015_winrt_x64_kit</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveBuildConfiguration">-1</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveDeployConfiguration">-1</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveRunConfiguration">-1</value>
+   <value type="int" key="ProjectExplorer.Target.BuildConfigurationCount">0</value>
+   <value type="int" key="ProjectExplorer.Target.DeployConfigurationCount">0</value>
+   <value type="int" key="ProjectExplorer.Target.RunConfigurationCount">0</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>ProjectExplorer.Project.Target.7</variable>
+  <valuemap type="QVariantMap">
+   <value type="QString" key="DeviceType">WinRt.Device.Local</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Qt 5.12.12 for UWP 64bit (MSVC 2017)</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Qt 5.12.12 for UWP 64bit (MSVC 2017)</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">qt.qt5.51212.win64_msvc2017_winrt_x64_kit</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveBuildConfiguration">-1</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveDeployConfiguration">-1</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveRunConfiguration">-1</value>
+   <value type="int" key="ProjectExplorer.Target.BuildConfigurationCount">0</value>
+   <value type="int" key="ProjectExplorer.Target.DeployConfigurationCount">0</value>
+   <value type="int" key="ProjectExplorer.Target.RunConfigurationCount">0</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>ProjectExplorer.Project.Target.8</variable>
+  <valuemap type="QVariantMap">
+   <value type="QString" key="DeviceType">WinRt.Device.Phone</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Qt 5.12.12 for UWP ARMv7 (MSVC 2015)</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Qt 5.12.12 for UWP ARMv7 (MSVC 2015)</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">qt.qt5.51212.win64_msvc2015_winrt_armv7_kit</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveBuildConfiguration">-1</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveDeployConfiguration">-1</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveRunConfiguration">-1</value>
+   <value type="int" key="ProjectExplorer.Target.BuildConfigurationCount">0</value>
+   <value type="int" key="ProjectExplorer.Target.DeployConfigurationCount">0</value>
+   <value type="int" key="ProjectExplorer.Target.RunConfigurationCount">0</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>ProjectExplorer.Project.Target.9</variable>
+  <valuemap type="QVariantMap">
+   <value type="QString" key="DeviceType">WinRt.Device.Phone</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Qt 5.12.12 for UWP ARMv7 (MSVC 2017)</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Qt 5.12.12 for UWP ARMv7 (MSVC 2017)</value>
+   <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">qt.qt5.51212.win64_msvc2017_winrt_armv7_kit</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveBuildConfiguration">-1</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveDeployConfiguration">-1</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveRunConfiguration">-1</value>
+   <value type="int" key="ProjectExplorer.Target.BuildConfigurationCount">0</value>
+   <value type="int" key="ProjectExplorer.Target.DeployConfigurationCount">0</value>
+   <value type="int" key="ProjectExplorer.Target.RunConfigurationCount">0</value>
+  </valuemap>
+ </data>
+ <data>
+  <variable>ProjectExplorer.Project.TargetCount</variable>
+  <value type="int">15</value>
+ </data>
+ <data>
+  <variable>ProjectExplorer.Project.Updater.FileVersion</variable>
+  <value type="int">22</value>
+ </data>
+ <data>
+  <variable>Version</variable>
+  <value type="int">22</value>
+ </data>
+</qtcreator>
